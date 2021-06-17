@@ -234,3 +234,7 @@ $ git push
 ### Wow, that's cool!
 
 That's right bud, and this next part of the tutorial will be even cooler `;)`.
+
+[PREVIOUS](./3/README.md)                   
+<br>
+[NEXT](./5/README.md)
